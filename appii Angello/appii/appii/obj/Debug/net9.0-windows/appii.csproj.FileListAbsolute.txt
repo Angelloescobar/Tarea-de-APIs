@@ -1,0 +1,38 @@
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\appii.exe
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\appii.deps.json
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\appii.runtimeconfig.json
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\appii.dll
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\appii.pdb
+C:\programcion visual\appii\appii\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.csproj.AssemblyReference.cache
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.Form1.resources
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.csproj.GenerateResource.cache
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.GeneratedMSBuildEditorConfig.editorconfig
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.AssemblyInfoInputs.cache
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.AssemblyInfo.cs
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.csproj.CoreCompileInputs.cache
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.csproj.Up2Date
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.dll
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\refint\appii.dll
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.pdb
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\appii.genruntimeconfig.cache
+C:\programcion visual\appii\appii\obj\Debug\net9.0-windows\ref\appii.dll
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\appii.exe
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\appii.deps.json
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\appii.runtimeconfig.json
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\appii.dll
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\appii.pdb
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.csproj.AssemblyReference.cache
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.Form1.resources
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.csproj.GenerateResource.cache
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.GeneratedMSBuildEditorConfig.editorconfig
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.AssemblyInfoInputs.cache
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.AssemblyInfo.cs
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.csproj.CoreCompileInputs.cache
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.csproj.Up2Date
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.dll
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\refint\appii.dll
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.pdb
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\appii.genruntimeconfig.cache
+C:\APIs tarea Angello Escobar\appii Angello\appii\appii\obj\Debug\net9.0-windows\ref\appii.dll
